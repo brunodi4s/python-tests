@@ -32,3 +32,4 @@ print(f'O Maior peso foi "{maior}" de', end=' ')
 for p1 in dell:    
     if p1[1] == maior:
         print(f'{p1[0]}', end = '... ')
+print(dell)
